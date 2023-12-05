@@ -1,11 +1,12 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
-  "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+    "account"      : "VQB68870" ,   
+    "user"         : "USER0008" , 
+    "password"     : "3514@WilliamPenn" , 
+    "role"         : "ROLE_USER0008" , 
+    "warehouse"    : "WH_XS_USER0008" , 
+    "database"     : "DB_USER0008" , 
+    "schema"       : "SCHEMA_LLM" , 
+    "compute_pool" : "COMPUTE_POOL_USER0008" , 
+    "huggingface_token"   : "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"
+
 }
